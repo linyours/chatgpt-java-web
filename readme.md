@@ -1,7 +1,7 @@
  
  ###蓝猫AI后端服务指引
 ### 效果可以体验 ： http://www.chosen1.xyz/
-### 对应前端地址： https://gitee.com/lixinjiuhao/chatgpt-web-java
+### 对应前端地址： https://github.com/linyours/chatgpt-web-java
  
  ##服务器中运行脚本： 
     java -jar xxx.jar --spring.profiles.active=dev
